@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/808-s-and-heartbreaks/static/css/main.dd752f56.css",
+    "main.js": "/808-s-and-heartbreaks/static/js/main.8fe72ad3.js",
+    "index.html": "/808-s-and-heartbreaks/index.html",
+    "main.dd752f56.css.map": "/808-s-and-heartbreaks/static/css/main.dd752f56.css.map",
+    "main.8fe72ad3.js.map": "/808-s-and-heartbreaks/static/js/main.8fe72ad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd752f56.css",
+    "static/js/main.8fe72ad3.js"
+  ]
+}
